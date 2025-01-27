@@ -1,0 +1,14 @@
+# SERVERPORT=8080
+# DBPORT=5432
+# DBHOST=ep-wild-dew-a1nyek16.ap-southeast-1.aws.neon.tech
+# DBUSERNAME=neondb_owner
+# DBPASSWORD=npg_n92UiWQwHcFd
+# DBNAME=neondb
+
+SERVERPORT=8080
+DBPORT=5432
+DBHOST=localhost
+DBUSERNAME=postgres
+DBPASSWORD=oke
+DBNAME=money_bank
+REDISADDRES=localhost:6379
